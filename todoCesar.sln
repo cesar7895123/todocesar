@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoCesar.Common", "todoCes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoCesar.Functions", "todoCesar.Functions\todoCesar.Functions.csproj", "{1D480E9E-DB50-48B0-96D9-29D6BA5A3F8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoCesar.Test", "todoCesar.Test\todoCesar.Test.csproj", "{06242E07-15A7-4367-9285-9B4B5E78D9E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoCesar.Test", "todoCesar.Test\todoCesar.Test.csproj", "{06242E07-15A7-4367-9285-9B4B5E78D9E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
